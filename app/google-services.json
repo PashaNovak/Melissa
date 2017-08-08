@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1021978019483",
+    "firebase_url": "https://melissaauth-f0742.firebaseio.com",
+    "project_id": "melissaauth-f0742",
+    "storage_bucket": "melissaauth-f0742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021978019483:android:a478ba560102c4d5",
+        "android_client_info": {
+          "package_name": "com.example.andre.melissa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021978019483-kq7grs63si81tm9j1m5bsph1cnaa3jqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andre.melissa",
+            "certificate_hash": "220281fb9c7c08f06aba4c71a5835228f3246a44"
+          }
+        },
+        {
+          "client_id": "1021978019483-7fivr1bpte5o23mqe7uojic4lhda2i3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFdUG4zk68c0-nv6KtYA8NrnGV_OJ4i80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021978019483-7fivr1bpte5o23mqe7uojic4lhda2i3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
